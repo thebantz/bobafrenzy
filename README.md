@@ -1,2 +1,2 @@
 # bobafrenzy
-React hitlist app for Boba within your area
+React hitlist app for Boba within your area 
